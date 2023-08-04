@@ -1,3 +1,9 @@
+# Archivos de compilacion
 bin/
 obj/
+
+# Migraciones
 Migrations/
+
+# Archivos de configuracion de vs-code
+.vs/
